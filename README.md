@@ -1,0 +1,2 @@
+# PyQt-ScreenAssistant
+Screen Assistant
